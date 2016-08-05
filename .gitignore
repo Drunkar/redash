@@ -9,6 +9,8 @@ celerybeat-schedule*
 \#*#
 *~
 _build
+rd_ui/gulp-cache/
+rd_ui/npm-debug.log
 
 # Vagrant related
 .vagrant
